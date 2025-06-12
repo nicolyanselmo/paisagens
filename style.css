@@ -46,7 +46,6 @@ section {
     gap: 1rem;
 }
 
-
 .botao-inicio {
     background-color: var(--laranja-claro);
     border-radius: 30px;
@@ -54,7 +53,6 @@ section {
     width: 14em;
     height: 3em;
     align-content: center;
-
 }
 
 .display-4 {
