@@ -11,6 +11,12 @@ header {
 section {
     padding-bottom: 5rem;
 }
+
+.nav-link {
+    color: #CB6D43;
+    font-weight: 600;
+}
+
 .nav-link {
     color: #CB6D43;
     font-weight: 600;
@@ -46,6 +52,7 @@ section {
     gap: 1rem;
 }
 
+
 .botao-inicio {
     background-color: var(--laranja-claro);
     border-radius: 30px;
@@ -53,11 +60,13 @@ section {
     width: 14em;
     height: 3em;
     align-content: center;
+
 }
 
 .display-4 {
     text-shadow: -5px 5px var(--laranja-claro);
 }
+
 #tropicalia {
     position: relative;
     padding-top: 5rem;
